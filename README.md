@@ -32,7 +32,6 @@ Normalization (MinMaxScaler): Scales features between 0 and 1.
 
 Standardization (StandardScaler): Mean = 0, Std = 1.
 
-📌 Key takeaway: Scaling is critical for algorithms l
 
 5. Feature Selection
 
@@ -57,4 +56,5 @@ How does scaling impact KNN or SVM?
 Prevents large-range features from dominating distance calculations.
 
 Compare L1 vs SBS?
+
  L1 = automatic & efficient, SBS = interpretable but slower.
